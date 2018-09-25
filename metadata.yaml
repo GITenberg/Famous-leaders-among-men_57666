@@ -1,0 +1,26 @@
+_repo: Famous-leaders-among-men_57666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bolton, Sarah Knowles
+    aliases:
+    - Bolton, Sarah K.
+    - Bolton, Mrs. C. E.
+    birthdate: 1841
+    deathdate: 1916
+    gutenberg_agent_id: '4216'
+    url: http://www.gutenberg.org/2009/agents/4216
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Knowles_Bolton
+description: ''
+gutenberg_issued: '2018-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Famous leaders among men
+url: http://www.gutenberg.org/ebooks/57666
